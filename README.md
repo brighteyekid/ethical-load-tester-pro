@@ -15,7 +15,9 @@ A professional load testing tool designed for authorized system administrators a
 
 bash
 git clone https://github.com/yourusername/ethical-load-tester-pro.git
+
 cd ethical-load-tester-pro
+
 ./setup.sh
 
 ## Usage
