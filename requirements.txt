@@ -1,0 +1,19 @@
+# Core dependencies
+aiohttp>=3.9.1
+dnspython>=2.4.2
+asyncio>=3.4.3
+
+# Visualization dependencies
+matplotlib>=3.8.2
+seaborn>=0.13.0
+pandas>=2.1.4
+numpy>=1.26.2
+
+# Logging and utilities
+python-dateutil>=2.8.2
+
+# Real test dependencies
+aiohttp-socks>=0.8.0
+fake-useragent>=1.4.0
+python-whois>=0.8.0
+requests>=2.31.0 
